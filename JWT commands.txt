@@ -1,0 +1,1 @@
+sfdx force:auth:jwt:grant --clientid 3MVG9CEn_O3jvv0ze7vi785r_3zYNYOI90sFVYZi76ZxknMbbOpsxAuYt.DTvH19vczTvq3Sv.SG_b.bGi1xS --username david.yip@cunamutual.sdfx.devhub --jwtkeyfile ./certificates/server.key --setdefaultdevhubusername
